@@ -1,0 +1,793 @@
+CRITICAL - 2022-04-25 05:19:27 --> Invalid file: site-view.php
+#0 C:\wamp64\www\codeigniter\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('site-view.php')
+#1 C:\wamp64\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('site-view', Array, true)
+#2 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(14): view('site-view')
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#5 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-25 05:19:29 --> Invalid file: site-view.php
+#0 C:\wamp64\www\codeigniter\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('site-view.php')
+#1 C:\wamp64\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('site-view', Array, true)
+#2 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(14): view('site-view')
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#5 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-25 05:19:35 --> Invalid file: site-view.php
+#0 C:\wamp64\www\codeigniter\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('site-view.php')
+#1 C:\wamp64\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('site-view', Array, true)
+#2 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(14): view('site-view')
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#5 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-25 06:44:22 --> Call to a member function findAll() on null
+#0 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#1 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-25 06:44:24 --> Call to a member function findAll() on null
+#0 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#1 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-25 06:44:25 --> Call to a member function findAll() on null
+#0 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#1 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-25 06:44:35 --> Call to a member function findAll() on null
+#0 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#1 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-25 06:44:51 --> Call to a member function findAll() on null
+#0 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#1 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-25 06:45:24 --> Call to a member function findAll() on null
+#0 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#1 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-25 06:45:41 --> Argument 2 passed to view() must be of the type array, null given, called in C:\wamp64\www\codeigniter\app\Controllers\UserController.php on line 22
+#0 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(22): view('list_users', NULL)
+#1 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-25 06:45:42 --> Argument 2 passed to view() must be of the type array, null given, called in C:\wamp64\www\codeigniter\app\Controllers\UserController.php on line 22
+#0 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(22): view('list_users', NULL)
+#1 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-25 06:45:54 --> Argument 2 passed to view() must be of the type array, null given, called in C:\wamp64\www\codeigniter\app\Controllers\UserController.php on line 22
+#0 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(22): view('list_users', NULL)
+#1 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-25 06:46:20 --> Argument 2 passed to view() must be of the type array, null given, called in C:\wamp64\www\codeigniter\app\Controllers\UserController.php on line 22
+#0 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(22): view('list_users', NULL)
+#1 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-25 06:46:21 --> Argument 2 passed to view() must be of the type array, null given, called in C:\wamp64\www\codeigniter\app\Controllers\UserController.php on line 22
+#0 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(22): view('list_users', NULL)
+#1 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-25 06:46:27 --> Argument 2 passed to view() must be of the type array, null given, called in C:\wamp64\www\codeigniter\app\Controllers\UserController.php on line 22
+#0 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(22): view('list_users', NULL)
+#1 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-25 06:47:28 --> Call to a member function findAll() on null
+#0 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#1 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-25 06:47:29 --> Call to a member function findAll() on null
+#0 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#1 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-25 06:48:06 --> Call to a member function findAll() on null
+#0 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#1 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-25 06:48:07 --> Call to a member function findAll() on null
+#0 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#1 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-04-25 06:52:23 --> Champ 'user.deleted_at' inconnu dans where clause
+CRITICAL - 2022-04-25 06:52:23 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\codeigniter\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(20): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-25 06:52:25 --> Champ 'user.deleted_at' inconnu dans where clause
+CRITICAL - 2022-04-25 06:52:25 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\codeigniter\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(20): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-25 06:53:48 --> Champ 'user.deleted_at' inconnu dans where clause
+CRITICAL - 2022-04-25 06:53:48 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\codeigniter\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(20): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-25 06:55:08 --> Champ 'user.deleted_at' inconnu dans where clause
+CRITICAL - 2022-04-25 06:55:08 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\codeigniter\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(22): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-25 06:55:09 --> Champ 'user.deleted_at' inconnu dans where clause
+CRITICAL - 2022-04-25 06:55:09 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\codeigniter\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(22): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-25 07:00:13 --> Champ 'user.deleted_at' inconnu dans where clause
+CRITICAL - 2022-04-25 07:00:13 --> Champ 'user.deleted_at' inconnu dans where clause
+#0 C:\wamp64\www\codeigniter\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\wamp64\www\codeigniter\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\wamp64\www\codeigniter\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\wamp64\www\codeigniter\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\codeigniter\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\codeigniter\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(22): CodeIgniter\BaseModel->findAll()
+#7 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#8 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#9 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2022-04-25 07:00:27 --> Champ 'user.deleted_at' inconnu dans where clause
+CRITICAL - 2022-04-25 07:00:27 --> Champ 'user.deleted_at' inconnu dans where clause
+#0 C:\wamp64\www\codeigniter\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\wamp64\www\codeigniter\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\wamp64\www\codeigniter\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\wamp64\www\codeigniter\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\codeigniter\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\codeigniter\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(22): CodeIgniter\BaseModel->findAll()
+#7 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#8 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#9 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2022-04-25 07:07:58 --> Champ 'user.deleted_at' inconnu dans where clause
+CRITICAL - 2022-04-25 07:07:58 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\codeigniter\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(20): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-25 07:07:59 --> Champ 'user.deleted_at' inconnu dans where clause
+CRITICAL - 2022-04-25 07:07:59 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\codeigniter\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(20): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-25 07:14:49 --> Champ 'user.deleted_at' inconnu dans where clause
+CRITICAL - 2022-04-25 07:14:49 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\codeigniter\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(20): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-25 07:14:58 --> Champ 'user.deleted_at' inconnu dans where clause
+CRITICAL - 2022-04-25 07:14:58 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\codeigniter\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(20): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-25 07:14:59 --> Champ 'user.deleted_at' inconnu dans where clause
+CRITICAL - 2022-04-25 07:14:59 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\codeigniter\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(20): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-25 07:19:56 --> Champ 'user.deleted_at' inconnu dans where clause
+CRITICAL - 2022-04-25 07:19:56 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\codeigniter\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(20): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-25 07:19:57 --> Champ 'user.deleted_at' inconnu dans where clause
+CRITICAL - 2022-04-25 07:19:57 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\codeigniter\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(20): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-25 07:22:48 --> Champ 'user.deleted_at' inconnu dans where clause
+CRITICAL - 2022-04-25 07:22:48 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\codeigniter\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(20): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-25 07:23:10 --> Champ 'user.deleted_at' inconnu dans where clause
+CRITICAL - 2022-04-25 07:23:10 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\codeigniter\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(20): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-25 07:23:11 --> Champ 'user.deleted_at' inconnu dans where clause
+CRITICAL - 2022-04-25 07:23:11 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\codeigniter\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(20): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-25 07:23:37 --> Champ 'user.deleted_at' inconnu dans where clause
+CRITICAL - 2022-04-25 07:23:37 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\codeigniter\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(20): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-25 07:23:38 --> Champ 'user.deleted_at' inconnu dans where clause
+CRITICAL - 2022-04-25 07:23:38 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\codeigniter\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(20): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-25 07:28:49 --> Champ 'user.deleted_at' inconnu dans where clause
+CRITICAL - 2022-04-25 07:28:49 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\codeigniter\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(20): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-25 07:29:16 --> Champ 'user.deleted_at' inconnu dans where clause
+CRITICAL - 2022-04-25 07:29:16 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\codeigniter\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(20): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-25 07:32:42 --> Champ 'user.deleted_at' inconnu dans where clause
+CRITICAL - 2022-04-25 07:32:42 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\codeigniter\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(20): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-25 07:32:44 --> Champ 'user.deleted_at' inconnu dans where clause
+CRITICAL - 2022-04-25 07:32:44 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\codeigniter\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(20): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-25 07:34:27 --> Error connecting to the database: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+
+CRITICAL - 2022-04-25 07:34:27 --> Unable to connect to the database.
+Main connection [MySQLi]: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+
+#0 C:\wamp64\www\codeigniter\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\wamp64\www\codeigniter\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\wamp64\www\codeigniter\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\wamp64\www\codeigniter\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(20): CodeIgniter\BaseModel->findAll()
+#5 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#6 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#7 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-04-25 07:34:45 --> Champ 'user.deleted_at' inconnu dans where clause
+CRITICAL - 2022-04-25 07:34:45 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\codeigniter\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(20): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-25 07:34:52 --> Error connecting to the database: MySQL server has gone away
+CRITICAL - 2022-04-25 07:34:52 --> Unable to connect to the database.
+Main connection [MySQLi]: MySQL server has gone away
+#0 C:\wamp64\www\codeigniter\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\wamp64\www\codeigniter\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\wamp64\www\codeigniter\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\wamp64\www\codeigniter\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(20): CodeIgniter\BaseModel->findAll()
+#5 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#6 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#7 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-04-25 07:34:53 --> Champ 'user.deleted_at' inconnu dans where clause
+CRITICAL - 2022-04-25 07:34:53 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\codeigniter\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(20): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-25 07:35:12 --> Error connecting to the database: MySQL server has gone away
+CRITICAL - 2022-04-25 07:35:12 --> Unable to connect to the database.
+Main connection [MySQLi]: MySQL server has gone away
+#0 C:\wamp64\www\codeigniter\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\wamp64\www\codeigniter\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\wamp64\www\codeigniter\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\wamp64\www\codeigniter\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(20): CodeIgniter\BaseModel->findAll()
+#5 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#6 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#7 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-25 07:36:49 --> Call to undefined method App\Models\UserModel::doFindAll
+#0 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(23): CodeIgniter\Model->__call('doFindAll', Array)
+#1 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-25 07:40:29 --> Call to a member function view() on null
+#0 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#1 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-25 07:40:30 --> Call to a member function view() on null
+#0 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#1 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-25 07:45:42 --> Call to a member function select() on null
+#0 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#1 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-04-25 07:46:27 --> Champ 'user.deleted_at' inconnu dans where clause
+CRITICAL - 2022-04-25 07:46:27 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\codeigniter\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(39): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-25 07:50:42 --> Champ 'user.deleted_at' inconnu dans where clause
+CRITICAL - 2022-04-25 07:50:42 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\codeigniter\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(39): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-25 07:51:11 --> Champ 'user.deleted_at' inconnu dans where clause
+CRITICAL - 2022-04-25 07:51:11 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\codeigniter\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(39): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-25 07:52:08 --> Champ 'user.deleted_at' inconnu dans where clause
+CRITICAL - 2022-04-25 07:52:08 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\codeigniter\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(39): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-25 07:52:33 --> Call to undefined method App\Models\UserModel::doFindAll
+#0 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(39): CodeIgniter\Model->__call('doFindAll', Array)
+#1 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-25 07:55:34 --> Call to undefined method App\Models\UserModel::doFindAll
+#0 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(39): CodeIgniter\Model->__call('doFindAll', Array)
+#1 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-25 07:57:30 --> Call to undefined method App\Models\UserModel::doFindAll
+#0 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(39): CodeIgniter\Model->__call('doFindAll', Array)
+#1 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-25 07:57:49 --> Call to undefined method App\Models\UserModel::doFindAll
+#0 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(39): CodeIgniter\Model->__call('doFindAll', Array)
+#1 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-25 07:58:10 --> Call to undefined method App\Models\UserModel::doFindAll
+#0 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(39): CodeIgniter\Model->__call('doFindAll', Array)
+#1 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-04-25 08:00:26 --> Table/alias: 'user' non unique
+CRITICAL - 2022-04-25 08:00:26 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\codeigniter\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(39): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-25 08:01:06 --> Table/alias: 'user' non unique
+CRITICAL - 2022-04-25 08:01:06 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\codeigniter\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(39): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-25 08:24:55 --> Call to a member function select() on null
+#0 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#1 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-04-25 08:25:19 --> Champ 'user.deleted_at' inconnu dans where clause
+CRITICAL - 2022-04-25 08:25:19 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\codeigniter\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\codeigniter\app\Models\UserModel.php(35): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(46): App\Models\UserModel->getUsers()
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#5 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2022-04-25 08:32:42 --> Champ 'user.deleted_at' inconnu dans where clause
+CRITICAL - 2022-04-25 08:32:42 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\codeigniter\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\codeigniter\app\Models\UserModel.php(35): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(46): App\Models\UserModel->getUsers()
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#5 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2022-04-25 08:32:44 --> Champ 'user.deleted_at' inconnu dans where clause
+CRITICAL - 2022-04-25 08:32:44 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\codeigniter\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\codeigniter\app\Models\UserModel.php(35): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(46): App\Models\UserModel->getUsers()
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#5 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2022-04-25 08:32:55 --> Champ 'user.deleted_at' inconnu dans where clause
+CRITICAL - 2022-04-25 08:32:55 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\codeigniter\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\codeigniter\app\Models\UserModel.php(35): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(46): App\Models\UserModel->getUsers()
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#5 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2022-04-25 08:33:01 --> Champ 'user.deleted_at' inconnu dans where clause
+CRITICAL - 2022-04-25 08:33:01 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\codeigniter\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\codeigniter\app\Models\UserModel.php(35): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(46): App\Models\UserModel->getUsers()
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#5 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2022-04-25 08:46:16 --> Table/alias: 'user' non unique
+CRITICAL - 2022-04-25 08:46:16 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\codeigniter\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(40): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-25 09:04:05 --> Class 'date' not found
+#0 C:\wamp64\www\codeigniter\system\View\View.php(210): include()
+#1 C:\wamp64\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\wamp64\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('list_users', Array, true)
+#3 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(30): view('list_users', Array)
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#5 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#6 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-25 09:04:13 --> Class 'date' not found
+#0 C:\wamp64\www\codeigniter\system\View\View.php(210): include()
+#1 C:\wamp64\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\wamp64\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('list_users', Array, true)
+#3 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(30): view('list_users', Array)
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#5 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#6 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-25 09:07:16 --> date_create() expects parameter 1 to be string, object given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'date_create() e...', 'C:\\wamp64\\www\\c...', 23, Array)
+#1 C:\wamp64\www\codeigniter\app\Views\list_users.php(23): date_create(Object(DateTime))
+#2 C:\wamp64\www\codeigniter\system\View\View.php(210): include('C:\\wamp64\\www\\c...')
+#3 C:\wamp64\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\wamp64\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('list_users', Array, true)
+#5 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(30): view('list_users', Array)
+#6 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#7 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#8 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-04-25 09:08:01 --> date_diff() expects parameter 1 to be DateTimeInterface, string given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'date_diff() exp...', 'C:\\wamp64\\www\\c...', 23, Array)
+#1 C:\wamp64\www\codeigniter\app\Views\list_users.php(23): date_diff('2012-04-12', Object(DateTime))
+#2 C:\wamp64\www\codeigniter\system\View\View.php(210): include('C:\\wamp64\\www\\c...')
+#3 C:\wamp64\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\wamp64\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('list_users', Array, true)
+#5 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(30): view('list_users', Array)
+#6 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#7 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#8 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-04-25 09:09:06 --> date_diff() expects parameter 1 to be DateTimeInterface, string given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'date_diff() exp...', 'C:\\wamp64\\www\\c...', 23, Array)
+#1 C:\wamp64\www\codeigniter\app\Views\list_users.php(23): date_diff('2012-04-12', Object(DateTime))
+#2 C:\wamp64\www\codeigniter\system\View\View.php(210): include('C:\\wamp64\\www\\c...')
+#3 C:\wamp64\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\wamp64\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('list_users', Array, true)
+#5 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(30): view('list_users', Array)
+#6 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#7 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#8 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-04-25 09:10:13 --> date_diff() expects parameter 1 to be DateTimeInterface, string given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'date_diff() exp...', 'C:\\wamp64\\www\\c...', 23, Array)
+#1 C:\wamp64\www\codeigniter\app\Views\list_users.php(23): date_diff('2012-04-12', '2022-04-25')
+#2 C:\wamp64\www\codeigniter\system\View\View.php(210): include('C:\\wamp64\\www\\c...')
+#3 C:\wamp64\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\wamp64\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('list_users', Array, true)
+#5 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(30): view('list_users', Array)
+#6 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#7 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#8 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-04-25 09:10:45 --> syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 C:\wamp64\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\wamp64\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('list_users', Array, true)
+#2 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(30): view('list_users', Array)
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#5 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-25 09:11:11 --> date_diff() expects parameter 1 to be DateTimeInterface, string given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'date_diff() exp...', 'C:\\wamp64\\www\\c...', 23, Array)
+#1 C:\wamp64\www\codeigniter\app\Views\list_users.php(23): date_diff('2012-04-12', '2022-04-25')
+#2 C:\wamp64\www\codeigniter\system\View\View.php(210): include('C:\\wamp64\\www\\c...')
+#3 C:\wamp64\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\wamp64\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('list_users', Array, true)
+#5 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(30): view('list_users', Array)
+#6 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#7 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#8 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-04-25 09:12:07 --> date_diff() expects parameter 1 to be DateTimeInterface, string given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'date_diff() exp...', 'C:\\wamp64\\www\\c...', 23, Array)
+#1 C:\wamp64\www\codeigniter\app\Views\list_users.php(23): date_diff('2012-04-12', Object(DateTime))
+#2 C:\wamp64\www\codeigniter\system\View\View.php(210): include('C:\\wamp64\\www\\c...')
+#3 C:\wamp64\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\wamp64\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('list_users', Array, true)
+#5 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(30): view('list_users', Array)
+#6 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#7 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#8 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-04-25 09:12:16 --> date_diff() expects parameter 2 to be DateTimeInterface, string given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'date_diff() exp...', 'C:\\wamp64\\www\\c...', 23, Array)
+#1 C:\wamp64\www\codeigniter\app\Views\list_users.php(23): date_diff(Object(DateTime), '2022-04-25')
+#2 C:\wamp64\www\codeigniter\system\View\View.php(210): include('C:\\wamp64\\www\\c...')
+#3 C:\wamp64\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\wamp64\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('list_users', Array, true)
+#5 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(30): view('list_users', Array)
+#6 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#7 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#8 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-04-25 09:37:08 --> Call to a member function join() on array
+#0 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#1 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-25 09:37:20 --> Call to a member function join() on array
+#0 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#1 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-04-25 09:50:56 --> La table 'tp1.services' n'existe pas
+CRITICAL - 2022-04-25 09:50:56 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\codeigniter\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(30): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-25 09:52:19 --> La table 'tp1.services' n'existe pas
+CRITICAL - 2022-04-25 09:52:19 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\codeigniter\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(30): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-25 09:55:40 --> Argument 1 passed to CodeIgniter\Database\BaseBuilder::join() must be of the type string, object given, called in C:\wamp64\www\codeigniter\system\Model.php on line 728
+#0 C:\wamp64\www\codeigniter\system\Model.php(728): CodeIgniter\Database\BaseBuilder->join(Object(App\Models\ServiceModel), 'user.id_service...')
+#1 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(30): CodeIgniter\Model->__call('join', Array)
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-25 09:55:45 --> Argument 1 passed to CodeIgniter\Database\BaseBuilder::join() must be of the type string, object given, called in C:\wamp64\www\codeigniter\system\Model.php on line 728
+#0 C:\wamp64\www\codeigniter\system\Model.php(728): CodeIgniter\Database\BaseBuilder->join(Object(App\Models\ServiceModel), 'user.id_service...')
+#1 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(30): CodeIgniter\Model->__call('join', Array)
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-25 09:56:11 --> Argument 1 passed to CodeIgniter\Database\BaseBuilder::join() must be of the type string, array given, called in C:\wamp64\www\codeigniter\system\Model.php on line 728
+#0 C:\wamp64\www\codeigniter\system\Model.php(728): CodeIgniter\Database\BaseBuilder->join(Array, 'user.id_service...')
+#1 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(30): CodeIgniter\Model->__call('join', Array)
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-25 09:57:32 --> Argument 1 passed to CodeIgniter\Database\BaseBuilder::join() must be of the type string, object given, called in C:\wamp64\www\codeigniter\system\Model.php on line 728
+#0 C:\wamp64\www\codeigniter\system\Model.php(728): CodeIgniter\Database\BaseBuilder->join(Object(App\Models\ServiceModel), 'user.id_service...')
+#1 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(31): CodeIgniter\Model->__call('join', Array)
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-25 12:17:38 --> Argument 1 passed to CodeIgniter\Database\BaseBuilder::join() must be of the type string, object given, called in C:\wamp64\www\codeigniter\system\Model.php on line 728
+#0 C:\wamp64\www\codeigniter\system\Model.php(728): CodeIgniter\Database\BaseBuilder->join(Object(App\Models\ServiceModel), 'user.id_service...')
+#1 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(31): CodeIgniter\Model->__call('join', Array)
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-25 12:37:51 --> Argument 1 passed to CodeIgniter\Database\BaseBuilder::join() must be of the type string, array given, called in C:\wamp64\www\codeigniter\system\Model.php on line 728
+#0 C:\wamp64\www\codeigniter\system\Model.php(728): CodeIgniter\Database\BaseBuilder->join(Array, 'user.id_service...')
+#1 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(31): CodeIgniter\Model->__call('join', Array)
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-25 12:38:53 --> Champ 'user.id_services' inconnu dans on clause
+CRITICAL - 2022-04-25 12:38:53 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\codeigniter\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(31): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-25 12:44:25 --> Champ 'services.id' inconnu dans on clause
+CRITICAL - 2022-04-25 12:44:25 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\codeigniter\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(31): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
