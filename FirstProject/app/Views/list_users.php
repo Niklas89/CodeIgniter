@@ -73,8 +73,8 @@
             <li class="text-info"><?= esc($users_item['description']) ?></li>
             </ul>
         </div>
-        <p><a href="/delete/<?= esc($users_item['userid']) ?>" class="btn btn-danger stretched-link btn-sm">Delete</a> | 
-        <a href="/edit/<?= esc($users_item['userid']) ?>" class="btn btn-primary stretched-link btn-sm">Edit</a></p>
+        <p><a href="/delete/<?= esc($users_item['userid']) ?>" class="btn btn-danger btn-sm">Delete</a> | 
+        <a href="/edit/<?= esc($users_item['userid']) ?>" class="btn btn-primary btn-sm">Edit</a></p>
         </div>
     </div>
     <?php endforeach ?>
