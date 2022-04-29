@@ -1,0 +1,183 @@
+CRITICAL - 2022-04-28 03:26:41 --> Call to a member function update() on null
+#0 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(832): App\Controllers\ClientController->updateClient()
+#1 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ClientController))
+#2 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\codeigniter2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\codeigniter2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#5 {main}
+CRITICAL - 2022-04-28 04:51:20 --> Call to undefined function number_to_currency()
+#0 C:\wamp64\www\codeigniter2\system\View\View.php(210): include()
+#1 C:\wamp64\www\codeigniter2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\wamp64\www\codeigniter2\system\Common.php(1089): CodeIgniter\View\View->render('view_clients', Array, true)
+#3 C:\wamp64\www\codeigniter2\app\Controllers\ClientController.php(133): view('view_clients', Array)
+#4 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(832): App\Controllers\ClientController->view('4')
+#5 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ClientController))
+#6 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\codeigniter2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\codeigniter2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#9 {main}
+CRITICAL - 2022-04-28 04:52:18 --> Call to undefined function number_to_currency()
+#0 C:\wamp64\www\codeigniter2\system\View\View.php(210): include()
+#1 C:\wamp64\www\codeigniter2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\wamp64\www\codeigniter2\system\Common.php(1089): CodeIgniter\View\View->render('view_clients', Array, true)
+#3 C:\wamp64\www\codeigniter2\app\Controllers\ClientController.php(133): view('view_clients', Array)
+#4 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(832): App\Controllers\ClientController->view('4')
+#5 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ClientController))
+#6 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\codeigniter2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\codeigniter2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#9 {main}
+CRITICAL - 2022-04-28 04:53:01 --> Call to undefined function number_to_currency()
+#0 C:\wamp64\www\codeigniter2\system\View\View.php(210): include()
+#1 C:\wamp64\www\codeigniter2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\wamp64\www\codeigniter2\system\Common.php(1089): CodeIgniter\View\View->render('view_clients', Array, true)
+#3 C:\wamp64\www\codeigniter2\app\Controllers\ClientController.php(133): view('view_clients', Array)
+#4 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(832): App\Controllers\ClientController->view('4')
+#5 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ClientController))
+#6 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\codeigniter2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\codeigniter2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#9 {main}
+CRITICAL - 2022-04-28 04:53:24 --> Invalid file: add_credit.php
+#0 C:\wamp64\www\codeigniter2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('add_credit.php')
+#1 C:\wamp64\www\codeigniter2\system\Common.php(1089): CodeIgniter\View\View->render('add_credit', Array, true)
+#2 C:\wamp64\www\codeigniter2\app\Controllers\CreditController.php(17): view('add_credit', Array)
+#3 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(832): App\Controllers\CreditController->create()
+#4 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CreditController))
+#5 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\codeigniter2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\codeigniter2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-04-28 05:00:58 --> Call to a member function save() on null
+#0 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(832): App\Controllers\CreditController->formValidation()
+#1 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CreditController))
+#2 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\codeigniter2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\codeigniter2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#5 {main}
+ERROR - 2022-04-28 05:01:18 --> Cannot add or update a child row: a foreign key constraint fails (`tp2`.`credit`, CONSTRAINT `credit_client_FK` FOREIGN KEY (`idClient`) REFERENCES `client` (`idClient`))
+ERROR - 2022-04-28 05:29:41 --> Cannot delete or update a parent row: a foreign key constraint fails (`tp2`.`credit`, CONSTRAINT `credit_client_FK` FOREIGN KEY (`idClient`) REFERENCES `client` (`idClient`))
+CRITICAL - 2022-04-28 07:12:41 --> Invalid file: 4.php
+#0 C:\wamp64\www\codeigniter2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('4.php')
+#1 C:\wamp64\www\codeigniter2\system\Common.php(1089): CodeIgniter\View\View->render('4', Array, true)
+#2 C:\wamp64\www\codeigniter2\app\Controllers\CreditController.php(53): view('4')
+#3 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(832): App\Controllers\CreditController->delete('4', '2')
+#4 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CreditController))
+#5 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\codeigniter2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\codeigniter2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-04-28 07:15:18 --> Illegal string offset 'idClient'
+#0 C:\wamp64\www\codeigniter2\app\Views\list_clients.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', 'C:\\wamp64\\www\\c...', 16, Array)
+#1 C:\wamp64\www\codeigniter2\system\View\View.php(210): include('C:\\wamp64\\www\\c...')
+#2 C:\wamp64\www\codeigniter2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\codeigniter2\system\Common.php(1089): CodeIgniter\View\View->render('list_clients', Array, true)
+#4 C:\wamp64\www\codeigniter2\app\Controllers\CreditController.php(59): view('list_clients', Array)
+#5 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(832): App\Controllers\CreditController->delete('4', '2')
+#6 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CreditController))
+#7 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\codeigniter2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\wamp64\www\codeigniter2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#10 {main}
+CRITICAL - 2022-04-28 07:15:28 --> Illegal string offset 'idClient'
+#0 C:\wamp64\www\codeigniter2\app\Views\list_clients.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', 'C:\\wamp64\\www\\c...', 16, Array)
+#1 C:\wamp64\www\codeigniter2\system\View\View.php(210): include('C:\\wamp64\\www\\c...')
+#2 C:\wamp64\www\codeigniter2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\codeigniter2\system\Common.php(1089): CodeIgniter\View\View->render('list_clients', Array, true)
+#4 C:\wamp64\www\codeigniter2\app\Controllers\CreditController.php(59): view('list_clients', Array)
+#5 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(832): App\Controllers\CreditController->delete('4', '2')
+#6 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CreditController))
+#7 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\codeigniter2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\wamp64\www\codeigniter2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#10 {main}
+CRITICAL - 2022-04-28 07:17:51 --> Invalid file: 4.php
+#0 C:\wamp64\www\codeigniter2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('4.php')
+#1 C:\wamp64\www\codeigniter2\system\Common.php(1089): CodeIgniter\View\View->render('4', Array, true)
+#2 C:\wamp64\www\codeigniter2\app\Controllers\CreditController.php(53): view('4')
+#3 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(832): App\Controllers\CreditController->delete('4', '8')
+#4 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CreditController))
+#5 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\codeigniter2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\codeigniter2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-04-28 07:19:35 --> Invalid file: 4.php
+#0 C:\wamp64\www\codeigniter2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('4.php')
+#1 C:\wamp64\www\codeigniter2\system\Common.php(1089): CodeIgniter\View\View->render('4', Array, true)
+#2 C:\wamp64\www\codeigniter2\app\Controllers\CreditController.php(53): view('4')
+#3 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(832): App\Controllers\CreditController->delete('4', '9')
+#4 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CreditController))
+#5 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\codeigniter2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\codeigniter2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-04-28 08:53:05 --> Call to a member function findAll() on null
+#0 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(832): App\Controllers\CreditController->create()
+#1 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CreditController))
+#2 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\codeigniter2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\codeigniter2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#5 {main}
+CRITICAL - 2022-04-28 08:53:39 --> Call to a member function findAll() on null
+#0 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(832): App\Controllers\CreditController->create()
+#1 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CreditController))
+#2 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\codeigniter2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\codeigniter2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#5 {main}
+CRITICAL - 2022-04-28 09:22:18 --> Invalid file: /edit/4/credit/12.php
+#0 C:\wamp64\www\codeigniter2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/edit/4/credit/...')
+#1 C:\wamp64\www\codeigniter2\system\Common.php(1089): CodeIgniter\View\View->render('/edit/4/credit/...', Array, true)
+#2 C:\wamp64\www\codeigniter2\app\Controllers\CreditController.php(87): view('/edit/4/credit/...', Array)
+#3 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(832): App\Controllers\CreditController->updateCredit()
+#4 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CreditController))
+#5 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\codeigniter2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\codeigniter2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-04-28 09:23:09 --> Argument 2 passed to base_url() must be of the type string or null, array given, called in C:\wamp64\www\codeigniter2\app\Controllers\CreditController.php on line 87
+#0 C:\wamp64\www\codeigniter2\app\Controllers\CreditController.php(87): base_url('/edit/4/credit/...', Array)
+#1 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(832): App\Controllers\CreditController->updateCredit()
+#2 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CreditController))
+#3 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\codeigniter2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\codeigniter2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#6 {main}
+CRITICAL - 2022-04-28 09:24:53 --> Argument 2 passed to base_url() must be of the type string or null, array given, called in C:\wamp64\www\codeigniter2\app\Controllers\CreditController.php on line 87
+#0 C:\wamp64\www\codeigniter2\app\Controllers\CreditController.php(87): base_url('/edit/4/credit/...', Array)
+#1 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(832): App\Controllers\CreditController->updateCredit()
+#2 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CreditController))
+#3 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\codeigniter2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\codeigniter2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#6 {main}
+ERROR - 2022-04-28 09:57:20 --> Erreur de syntaxe près de '= `credit`.`idClient`' à la ligne 3
+CRITICAL - 2022-04-28 09:57:20 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\codeigniter2\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\codeigniter2\app\Controllers\ClientController.php(107): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(832): App\Controllers\ClientController->updateClient()
+#3 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ClientController))
+#4 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\codeigniter2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\codeigniter2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#7 {main}
+ERROR - 2022-04-28 09:57:32 --> Erreur de syntaxe près de '= `credit`.`idClient`' à la ligne 3
+CRITICAL - 2022-04-28 09:57:32 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\codeigniter2\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\codeigniter2\app\Controllers\ClientController.php(107): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(832): App\Controllers\ClientController->updateClient()
+#3 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ClientController))
+#4 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\codeigniter2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\codeigniter2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#7 {main}
+ERROR - 2022-04-28 09:57:44 --> Erreur de syntaxe près de '= `credit`.`idClient`' à la ligne 3
+CRITICAL - 2022-04-28 09:57:44 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\codeigniter2\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\codeigniter2\app\Controllers\ClientController.php(107): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(832): App\Controllers\ClientController->updateClient()
+#3 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ClientController))
+#4 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\codeigniter2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\codeigniter2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#7 {main}

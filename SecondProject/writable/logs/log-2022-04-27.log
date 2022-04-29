@@ -1,0 +1,41 @@
+CRITICAL - 2022-04-27 02:54:12 --> A non-numeric value encountered
+#0 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\wamp64\\www\\c...', 83, Array)
+#1 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->select('2')
+#2 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#6 {main}
+CRITICAL - 2022-04-27 05:29:38 --> There is no data to update.
+#0 C:\wamp64\www\codeigniter\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\wamp64\www\codeigniter\system\BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray(NULL, 'update')
+#2 C:\wamp64\www\codeigniter\system\Model.php(651): CodeIgniter\BaseModel->update(Array, NULL)
+#3 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(129): CodeIgniter\Model->update(Array)
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->updateUser()
+#5 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#6 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#9 {main}
+CRITICAL - 2022-04-27 05:31:32 --> There is no data to update.
+#0 C:\wamp64\www\codeigniter\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\wamp64\www\codeigniter\system\BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray(NULL, 'update')
+#2 C:\wamp64\www\codeigniter\system\Model.php(651): CodeIgniter\BaseModel->update(Array, NULL)
+#3 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(129): CodeIgniter\Model->update(Array)
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->updateUser()
+#5 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#6 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#9 {main}
+CRITICAL - 2022-04-27 05:32:29 --> There is no data to update.
+#0 C:\wamp64\www\codeigniter\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\wamp64\www\codeigniter\system\BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray(NULL, 'update')
+#2 C:\wamp64\www\codeigniter\system\Model.php(651): CodeIgniter\BaseModel->update(Array, NULL)
+#3 C:\wamp64\www\codeigniter\app\Controllers\UserController.php(129): CodeIgniter\Model->update(Array)
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\UserController->updateUser()
+#5 C:\wamp64\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#6 C:\wamp64\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#9 {main}

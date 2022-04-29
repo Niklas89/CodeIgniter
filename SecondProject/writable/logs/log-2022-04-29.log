@@ -1,0 +1,7 @@
+CRITICAL - 2022-04-29 02:38:09 --> Call to undefined function App\Controllers\index()
+#0 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(832): App\Controllers\ClientController->formValidation()
+#1 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ClientController))
+#2 C:\wamp64\www\codeigniter2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\codeigniter2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\codeigniter2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#5 {main}
